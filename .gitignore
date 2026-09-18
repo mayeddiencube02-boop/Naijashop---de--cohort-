@@ -1,0 +1,20 @@
+﻿# Service account credentials - never commit API keys/secrets
+naijashop-ingestion-class.json
+naijashop-ingestion-class*.json
+service_account.json
+*.json.key
+
+# Generated seed data - large, regenerable via seed_data.py, not source data
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment variables / local secrets
+.env
+
+# Google Cloud service account credentials
+Naijashop_Cloud_Pipeline/tactile-atlas-508510-k0-61bb041ff3c5.json

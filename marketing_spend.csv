@@ -1,0 +1,308 @@
+campaign_id,campaign_name,channel,spend_date,amount_ngn,clicks,conversions
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-07-12,21477.37,349,25
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-07-12,19992.04,330,32
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-07-12,39958.38,732,64
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-07-12,39098.91,597,32
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-07-12,23426.78,886,32
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-07-12,10123.16,146,11
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-07-13,27636.22,429,35
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-07-13,15341.66,207,29
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-07-13,19940.69,435,60
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-07-13,28812.8,493,24
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-07-13,32344.13,639,56
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-07-13,28503.03,1021,43
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-07-14,32172.41,596,55
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-07-14,22450.37,334,36
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-07-14,12046.43,218,26
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-07-14,46611.28,865,61
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-07-14,37807.93,685,56
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-07-15,21840.24,309,29
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-07-15,24585.64,454,47
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-07-15,42446.68,634,35
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-07-15,49571.07,987,96
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-07-16,16265.54,218,28
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-07-16,19311.87,383,58
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-07-16,28578.71,481,25
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-07-16,43469.84,786,84
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-07-16,15112.18,268,16
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-07-17,31999.2,545,37
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-07-17,20243.02,295,29
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-07-17,33279.58,587,67
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-07-17,33732.25,648,35
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-07-17,40956.83,703,61
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-07-18,15278.28,240,28
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-07-18,13471.88,285,46
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-07-18,29784.11,467,28
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-07-18,33554.09,723,58
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-07-18,21830.64,733,26
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-07-18,13985.54,216,13
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-07-19,30174.29,500,43
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-07-19,16071.97,281,47
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-07-19,46948.66,742,47
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-07-19,21354.74,857,36
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-07-19,10724.85,159,11
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-07-20,18998.82,343,24
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-07-20,20467.87,287,37
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-07-20,43411.67,756,45
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-07-20,51056.14,887,84
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-07-20,21002.08,717,33
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-07-20,11784.49,222,13
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-07-21,17161.52,254,33
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-07-21,12163.24,255,30
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-07-21,39732.66,596,30
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-07-21,28341.86,1222,54
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-07-21,15469.59,266,14
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-07-22,29564.1,501,40
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-07-22,12859.4,246,40
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-07-22,38637.29,757,45
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-07-22,42211.54,823,66
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-07-22,18822.21,622,24
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-07-23,23711.25,433,35
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-07-23,20072.98,350,48
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-07-23,38055.02,582,58
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-07-23,51203.86,1031,109
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-07-23,24050.46,1004,32
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-07-23,16160.76,266,16
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-07-24,22864.38,399,48
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-07-24,17514.27,357,44
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-07-24,35046.28,619,58
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-07-24,44760.17,962,74
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-07-24,23341.95,1003,43
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-07-24,11113.86,202,15
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-07-25,17044.05,237,33
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-07-25,37600.8,694,62
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-07-25,38406.16,646,41
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-07-25,17170.14,740,24
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-07-26,24920.31,475,32
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-07-26,22440.99,325,46
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-07-26,15365.39,338,44
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-07-26,27112.42,450,26
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-07-26,33185.89,709,69
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-07-27,28324.06,512,43
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-07-27,24189.72,364,42
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-07-27,35244.6,638,31
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-07-27,51965.13,957,77
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-07-27,12136.84,216,12
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-07-28,28276.4,439,33
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-07-28,18809.45,290,30
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-07-28,30309.33,489,51
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-07-28,31104.06,502,51
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-07-28,25788.28,988,33
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-07-29,13012.12,226,28
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-07-29,29449.85,558,64
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-07-29,30636.27,589,62
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-07-29,24096.26,899,38
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-07-29,12299.42,207,17
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-07-30,29201.06,545,50
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-07-30,37160.43,578,48
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-07-30,37655.42,779,56
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-07-30,18842.2,782,35
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-07-30,14292.51,259,16
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-07-31,16306.8,300,48
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-07-31,35818.36,550,52
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-07-31,23553.12,909,34
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-07-31,11142.97,163,9
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-08-01,20763.2,347,46
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-08-01,15286.01,286,39
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-08-01,39610.93,674,70
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-08-01,26922.96,912,36
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-08-02,30172.66,562,37
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-08-02,17502.94,297,42
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-08-02,12013.54,275,39
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-08-02,43509.06,792,39
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-08-02,32018.56,636,47
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-08-02,11526.59,170,10
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-08-03,23703.79,418,30
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-08-03,17582.27,290,31
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-08-03,42361.09,796,52
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-08-03,11917.46,202,15
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-08-04,26596.47,497,42
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-08-04,22880.87,326,46
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-08-04,30681.74,530,54
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-08-04,27799.73,484,34
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-08-04,16660.44,734,23
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-08-04,15416.23,259,21
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-08-05,17941.03,287,31
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-08-05,13643.44,261,35
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-08-05,30658.34,439,40
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-08-05,33196.44,543,57
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-08-05,25038.4,934,33
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-08-05,9768.64,154,9
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-08-06,19880.39,378,30
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-08-06,13897.68,192,18
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-08-06,32428.58,486,46
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-08-06,42579.65,725,51
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-08-06,39041.74,786,67
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-08-06,27444.97,1082,35
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-08-07,24122.44,383,32
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-08-07,14894.92,263,32
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-08-07,35487.43,699,65
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-08-07,27715.35,989,38
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-08-08,30520.02,572,51
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-08-08,23254.03,374,53
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-08-08,19961.76,349,58
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-08-08,44158.94,823,71
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-08-08,24526.76,986,40
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-08-09,21886.96,403,30
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-08-09,18828.82,406,50
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-08-09,35057.55,636,62
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-08-09,45369.9,730,44
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-08-09,42894.32,794,73
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-08-09,9330.2,161,10
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-08-10,26301.26,500,32
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-08-10,20709.62,290,30
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-08-10,11617.82,209,28
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-08-10,35926.35,561,31
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-08-10,27052.22,1085,36
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-08-10,10274.48,150,8
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-08-11,32178.1,581,47
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-08-11,13896.18,200,26
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-08-11,29140.45,480,52
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-08-11,38891.33,725,68
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-08-11,14387.47,217,13
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-08-12,22788.65,395,25
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-08-12,17361.92,377,56
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-08-12,32874.29,688,64
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-08-12,20751.44,732,27
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-08-13,33547.73,623,44
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-08-13,15235.36,214,23
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-08-13,17063.26,348,49
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-08-13,25620.72,477,39
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-08-13,28387.43,435,23
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-08-13,9918.58,154,10
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-08-14,18829.5,387,30
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-08-14,15654.67,260,31
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-08-14,26191.4,497,53
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-08-14,37485.77,638,43
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-08-14,46973.52,951,71
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-08-14,14204.85,259,19
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-08-15,26983.83,442,37
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-08-15,17487.69,268,32
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-08-15,18398.61,324,55
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-08-15,24081.63,357,28
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-08-15,9840.21,162,11
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-08-16,23492.95,434,37
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-08-16,16045.47,259,36
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-08-16,52234.79,1044,76
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-08-16,26815.99,1138,50
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-08-16,14756.67,269,16
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-08-17,22185.38,404,31
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-08-17,17094.41,284,36
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-08-17,12750.58,283,42
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-08-17,41820.68,732,52
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-08-17,40529.87,777,65
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-08-17,21667.56,845,27
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-08-18,21650.06,296,36
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-08-18,31541.19,531,52
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-08-18,34909.07,696,62
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-08-18,11727.52,192,13
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-08-19,23887.86,394,30
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-08-19,16641.26,365,64
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-08-19,33338.79,550,44
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-08-19,11073.09,190,15
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-08-20,22288.59,360,25
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-08-20,14244.35,193,19
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-08-20,18813.96,422,53
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-08-20,37574.83,594,54
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-08-20,39928.71,740,42
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-08-20,19501.62,777,29
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-08-21,19464.75,359,55
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-08-21,39113.28,645,64
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-08-21,28649.61,478,32
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-08-21,28623.6,1134,36
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-08-22,24035.85,369,45
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-08-22,26461.75,403,40
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-08-22,32541.51,526,30
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-08-22,50655.17,959,75
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-08-22,12072.88,219,14
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-08-23,14315.44,239,26
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-08-23,38653.75,649,72
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-08-23,42322.48,639,35
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-08-23,42826.94,798,71
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-08-23,20381.39,838,33
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-08-24,31203.3,544,46
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-08-24,13094.86,245,42
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-08-24,26877.1,477,54
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-08-24,39957.67,631,31
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-08-24,19550.19,794,25
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-08-24,9749.58,177,10
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-08-25,30204.09,484,44
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-08-25,15175.14,284,50
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-08-25,29334.46,502,45
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-08-25,39357.13,656,40
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-08-25,49618.65,886,72
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-08-25,13197.9,214,17
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-08-26,24828.72,446,38
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-08-26,22302.59,346,34
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-08-26,13212.21,275,39
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-08-26,40596.86,763,46
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-08-26,47800.49,949,82
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-08-26,9952.39,185,13
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-08-27,24058.07,492,34
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-08-27,47572.43,825,78
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-08-27,21837.84,912,35
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-08-27,12558.77,213,16
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-08-28,22798.67,415,28
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-08-28,33487.28,633,60
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-08-28,29093.95,1000,39
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-08-28,12147.79,227,17
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-08-29,18196.14,261,35
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-08-29,16562.08,317,39
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-08-29,45513.59,695,49
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-08-29,48501.89,802,59
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-08-29,27052.29,1106,40
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-08-29,14242.96,237,17
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-08-30,21697.59,360,45
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-08-30,17488.58,302,48
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-08-30,23294.98,398,47
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-08-30,37921.94,644,35
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-08-30,32892.54,659,52
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-08-30,16060.15,300,22
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-08-31,31418.24,534,48
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-08-31,16905.14,266,35
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-08-31,24670.2,358,38
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-08-31,30888.18,595,47
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-08-31,11447.1,203,11
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-09-01,22939.21,424,34
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-09-01,44618.74,771,54
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-09-01,49170.8,1059,89
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-09-01,26626.89,998,39
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-09-02,11410.87,261,38
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-09-02,27833.55,426,34
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-09-02,28569.96,468,25
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-09-02,22061.91,913,32
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-09-03,17837.07,305,32
+CMP-GG-01,Google_Search_Brand_Keywords,Google Ads,2026-09-03,19207.79,395,68
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-09-03,27161.69,464,55
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-09-03,16122.13,288,16
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-09-04,26523.91,491,39
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-09-04,20227.72,338,33
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-09-04,47173.05,905,53
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-09-04,49218.47,958,76
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-09-04,19935.08,773,30
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-09-04,9264.47,175,13
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-09-05,26188.14,412,29
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-09-05,32415.43,473,45
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-09-05,38944.52,677,66
+CMP-TT-01,TikTok_GenZ_Challenge,TikTok,2026-09-05,18209.6,785,37
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-09-05,15207.32,276,20
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-09-06,16149.08,225,23
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-09-06,35710.38,598,68
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-09-06,37087.66,713,44
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-09-06,13767.21,232,18
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-09-07,15236.21,259,35
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-09-07,38193.18,546,61
+CMP-IG-02,IG_Reels_Electronics_FlashSale,Instagram,2026-09-07,48065.2,808,83
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-09-07,9927.86,157,12
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-09-08,18886.09,372,25
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-09-08,37622.19,606,52
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-09-08,32200.2,472,27
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-09-08,13030.88,192,12
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-09-09,23264.45,444,29
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-09-09,13994.01,241,34
+CMP-IG-01,IG_Influencer_Fashion_Promo,Instagram,2026-09-09,38475.58,629,39
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-09-09,15975.92,286,17
+CMP-FB-01,FB_Brand_Awareness_NG,Facebook Ads,2026-09-10,30672.14,584,41
+CMP-FB-02,FB_Retargeting_CartAbandoners,Facebook Ads,2026-09-10,18102.76,277,28
+CMP-GG-02,Google_Shopping_HighMargin,Google Ads,2026-09-10,31295.58,563,60
+CMP-X-01,Twitter_Tech_Community_Ad,X (Twitter),2026-09-10,12210.5,189,15
