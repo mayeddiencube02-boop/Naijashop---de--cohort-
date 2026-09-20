@@ -1,1 +1,65 @@
 
+name: NaijaShop Full Pipeline Orchestration 
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # daily at 06:00 UTC
+  workflow_dispatch:        # manual "Run workflow" button for testing
+
+jobs:
+  refresh-orders:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install faker psycopg2-binary
+      # Refreshes the orders/customers dataset directly in Neon
+      - env:
+          NEON_HOST: ${{ secrets.NEON_HOST }}
+          NEON_DB: ${{ secrets.NEON_DB }}
+          NEON_USER: ${{ secrets.NEON_USER }}
+          NEON_PASSWORD: ${{ secrets.NEON_PASSWORD }}
+        run: |
+          python seed_data.py --load-pg --dsn "dbname=${NEON_DB} user=${NEON_USER} password=${NEON_PASSWORD} host=${NEON_HOST} sslmode=require"
+
+  trigger-airbyte-syncs:
+    runs-on: ubuntu-latest
+    needs: refresh-orders   # only runs after orders finish, keeps things in order
+    steps:
+      # Airbyte Cloud now uses OAuth2 client-credentials auth: you exchange
+      # a Client ID + Client Secret for a short-lived access token, then use
+      # that token as a Bearer token on the actual API calls.
+      - name: Get Airbyte access token
+        id: airbyte_auth
+        env:
+          CLIENT_ID: ${{ secrets.AIRBYTE_CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.AIRBYTE_CLIENT_SECRET }}
+        run: |
+          TOKEN=$(curl -s -X POST "https://api.airbyte.com/v1/applications/token" \
+            -H "Content-Type: application/json" \
+            -d "{\"client_id\": \"${CLIENT_ID}\", \"client_secret\": \"${CLIENT_SECRET}\"}" \
+            | python3 -c "import sys, json; print(json.load(sys.stdin)['access_token'])")
+          echo "::add-mask::$TOKEN"
+          echo "token=$TOKEN" >> "$GITHUB_OUTPUT"
+
+      - name: Trigger exchange rate sync
+        env:
+          AIRBYTE_TOKEN: ${{ steps.airbyte_auth.outputs.token }}
+          CONNECTION_ID: ${{ secrets.AIRBYTE_EXCHANGE_RATE_CONNECTION_ID }}
+        run: |
+          curl -X POST "https://api.airbyte.com/v1/jobs" \
+            -H "Authorization: Bearer ${AIRBYTE_TOKEN}" \
+            -H "Content-Type: application/json" \
+            -d "{\"connectionId\": \"${CONNECTION_ID}\", \"jobType\": \"sync\"}"
+
+      - name: Trigger marketing spend sync
+        env:
+          AIRBYTE_TOKEN: ${{ steps.airbyte_auth.outputs.token }}
+          CONNECTION_ID: ${{ secrets.AIRBYTE_MARKETING_CONNECTION_ID }}
+        run: |
+          curl -X POST "https://api.airbyte.com/v1/jobs" \
+            -H "Authorization: Bearer ${AIRBYTE_TOKEN}" \
+            -H "Content-Type: application/json" \
+            -d "{\"connectionId\": \"${CONNECTION_ID}\", \"jobType\": \"sync\"}"
