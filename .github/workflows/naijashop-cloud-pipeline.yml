@@ -1,7 +1,6 @@
+name: NaijaShop Full Pipeline Orchestration
 
-name: NaijaShop Full Pipeline Orchestration 
-
-on:
+"on":
   schedule:
     - cron: "0 6 * * *"   # daily at 06:00 UTC
   workflow_dispatch:        # manual "Run workflow" button for testing
