@@ -48,7 +48,7 @@ jobs:
           AIRBYTE_TOKEN: ${{ steps.airbyte_auth.outputs.token }}
           CONNECTION_ID: ${{ secrets.AIRBYTE_EXCHANGE_RATE_CONNECTION_ID }}
         run: |
-          curl -X POST "https://api.airbyte.com/v1/jobs" \
+          curl --fail -X POST "https://api.airbyte.com/v1/jobs" \
             -H "Authorization: Bearer ${AIRBYTE_TOKEN}" \
             -H "Content-Type: application/json" \
             -d "{\"connectionId\": \"${CONNECTION_ID}\", \"jobType\": \"sync\"}"
@@ -58,7 +58,7 @@ jobs:
           AIRBYTE_TOKEN: ${{ steps.airbyte_auth.outputs.token }}
           CONNECTION_ID: ${{ secrets.AIRBYTE_MARKETING_CONNECTION_ID }}
         run: |
-          curl -X POST "https://api.airbyte.com/v1/jobs" \
+          curl --fail -X POST "https://api.airbyte.com/v1/jobs" \
             -H "Authorization: Bearer ${AIRBYTE_TOKEN}" \
             -H "Content-Type: application/json" \
             -d "{\"connectionId\": \"${CONNECTION_ID}\", \"jobType\": \"sync\"}"
