@@ -135,7 +135,6 @@ def load_to_postgres(dsn: str, rows: list):
             ))
             loaded += 1
         except Exception as e:
-            conn.rollback()
             print(f"  skipped a row (bad data?): {row} -- {e}", file=sys.stderr)
  
     conn.commit()

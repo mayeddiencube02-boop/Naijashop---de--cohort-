@@ -18,3 +18,4 @@ venv/
 
 # Google Cloud service account credentials
 Naijashop_Cloud_Pipeline/tactile-atlas-508510-k0-61bb041ff3c5.json
+logs/

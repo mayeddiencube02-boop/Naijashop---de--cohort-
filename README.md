@@ -1,7 +1,3 @@
-My Data Engineering Cohort Journey
-
-Week 0 complete — Eddie Ncube, 8/22/2026
-
 # NaijaShop Data Pipeline
 
 A consolidated e-commerce analytics pipeline for NaijaShop, built on **Neon (serverless Postgres)** and transformed with **dbt**. The data is now modeled and ready to connect directly to **Power BI** for analysis and dashboarding.
